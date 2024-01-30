@@ -8,6 +8,7 @@ We download the **Windows 64-bit** installer and we run it
 
 We include the **CURL bin path** in the **PATH** environment variable 
 
+![image](https://github.com/luiscoco/CURL_Windows_Installation/assets/32194879/1f9891a2-011a-409c-a1fa-6d18bc4c6946)
 
 We restart the commputer
 
